@@ -1,7 +1,18 @@
+/**
+ * Title: CSS file for social links challenge provided by Frontend Mentor.
+ * Author: Nathan Addison (r3cla).
+ * Description: Default styling is for mobile screens and similar sized devices.
+ * Creation Date: Feb 2024.
+
+
+ */
+ 
+
+/* text styles */
+
 body {
     font-family: 'Inter', sans-serif;
-    background-color: hsl(0, 0%, 100%);
-    color: hsl(0, 0%, 20%);
+    background-color: hsl(0, 0%, 8%); /* off black */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,16 +20,37 @@ body {
     margin: 0;
 }
 
+.title { 
+    font-size: 17px;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+}
+
+.subtitle { 
+    font-size: 16px;
+    font-weight: 600;
+    color: hsl(75, 94%, 57%);
+}
+
+.bio {
+    font-weight: 400;
+    font-size: 14px;
+    color: hsl(0, 0%, 20%);
+    
+}
+
+/* card styles */
+
 .card { 
-    background-color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 12%)
     border-radius: 15px;
     padding: 20px;
     box-shadow: 0 4px 8px hsl(0, 0%, 12%);
     text-align: center;
-    width: 375px; /* Mobile size */
+    width: 375px; 
 }
 
-.social-links a {
+.social-links a { /* styles for social link buttons */
     color: hsl(75, 94%, 57%);
     text-decoration: none;
     font-weight: 600;
@@ -29,8 +61,12 @@ body {
     text-decoration: underline;
 }
 
+
+
+/* media queries for larger screens if needed
+
 @media (min-width: 1440px) {
     .card { 
         width: 1440px; 
 }
-}
+} */
