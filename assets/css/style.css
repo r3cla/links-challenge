@@ -37,6 +37,7 @@ html, body {
     font-weight: 400;
     font-size: 0.8em;
     color: hsl(0, 0%, 100%);
+    margin-top: 10px;
     
 }
 
@@ -77,8 +78,6 @@ html, body {
     text-decoration: none;
     border-color: hsl(75, 81%, 80%); 
 }
-
-
 
 .pfp { /* profile pic aka avatar */
     width: 100px; 
