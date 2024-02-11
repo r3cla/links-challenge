@@ -31,13 +31,14 @@ html, body {
     font-weight: 600;
     font-size: 1em;
     color: hsl(75, 94%, 57%);
+    margin-top: -5px;
 }
 
 .bio {
     font-weight: 400;
     font-size: 0.9em;
     color: hsl(0, 0%, 100%);
-    margin-top: 10px;
+    margin-top: 30px;
     
 }
 
@@ -56,7 +57,6 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 2px;
 }
 
 .social-links a { 
