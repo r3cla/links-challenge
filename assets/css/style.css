@@ -97,13 +97,13 @@ html, body {
     bottom: 0;
     width: 100%;
     color: hsl(220, 15%, 55%); 
-    background-color: hsl(0, 1%, 21%);
+    background-color: hsl(0, 0%, 12%)
     box-shadow: hsl(0, 0%, 11%);
     padding: 1em; 
   }
   
   .attribution a {
-    color: hsl(218, 44%, 22%); 
+    color: hsl(218, 26%, 47%); 
     text-decoration: none;
   }
   
