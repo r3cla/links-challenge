@@ -61,7 +61,7 @@ body {
     text-decoration: underline;
 }
 
-.pfp { 
+.pfp { /* profile pic aka avatar */
     width: 100px; 
     height: auto; 
     border-radius: 50%; /* Circular shape */
