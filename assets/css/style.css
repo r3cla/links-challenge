@@ -61,7 +61,7 @@ body {
     text-decoration: underline;
 }
 
-.avatar { 
+.pfp { 
     width: 100px; 
     height: auto; 
     border-radius: 50%; /* Circular shape */
