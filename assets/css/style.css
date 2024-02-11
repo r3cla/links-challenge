@@ -61,6 +61,36 @@ body {
     text-decoration: underline;
 }
 
+.avatar { 
+    width: 100px; 
+    height: auto; 
+    border-radius: 50%; /* Circular shape */
+    margin: 0 auto 20px; 
+    display: block; 
+}
+
+/* footer styles */
+
+.attribution {
+    font-size: 0.7em;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: hsl(220, 15%, 55%); 
+    background-color: hsl(0, 0%, 8%);
+    box-shadow: hsl(0, 0%, 11%);
+    padding: 1em; 
+  }
+  
+  .attribution a {
+    color: hsl(218, 44%, 22%); 
+    text-decoration: none;
+  }
+  
+  .attribution a:hover {
+    text-decoration: underline;
+  }
 
 
 /* media queries for larger screens if needed
