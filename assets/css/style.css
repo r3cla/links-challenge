@@ -21,31 +21,31 @@ body {
 }
 
 .title { 
-    font-size: 17px;
     font-weight: 700;
+    font-size: 1.4em;
     color: hsl(0, 0%, 100%);
 }
 
 .subtitle { 
-    font-size: 16px;
     font-weight: 600;
+    font-size: 0.9em;
     color: hsl(75, 94%, 57%);
 }
 
 .bio {
     font-weight: 400;
-    font-size: 14px;
-    color: hsl(0, 0%, 20%);
+    font-size: 0.8em;
+    color: hsl(0, 0%, 100%);
     
 }
 
 /* card styles */
 
 .card { 
-    background-color: hsl(0, 0%, 12%)
+    background-color: hsl(0, 0%, 12%);
     border-radius: 15px;
     padding: 20px;
-    box-shadow: 0 4px 8px hsl(0, 0%, 12%);
+    box-shadow: 0 4px 8px hsl(0, 0%, 29%);
     text-align: center;
     width: 375px; 
 }
