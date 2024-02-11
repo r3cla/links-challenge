@@ -29,13 +29,13 @@ html, body {
 
 .subtitle { 
     font-weight: 600;
-    font-size: 0.9em;
+    font-size: 1em;
     color: hsl(75, 94%, 57%);
 }
 
 .bio {
     font-weight: 400;
-    font-size: 0.8em;
+    font-size: 0.9em;
     color: hsl(0, 0%, 100%);
     margin-top: 10px;
     
