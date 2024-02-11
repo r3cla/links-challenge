@@ -55,7 +55,7 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 2px;
 }
 
 .social-links a { 
@@ -97,7 +97,7 @@ html, body {
     bottom: 0;
     width: 100%;
     color: hsl(220, 15%, 55%); 
-    background-color: hsl(0, 0%, 12%)
+    background-color: hsl(0, 0%, 12%);
     box-shadow: hsl(0, 0%, 11%);
     padding: 1em; 
   }
