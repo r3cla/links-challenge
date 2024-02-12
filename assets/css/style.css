@@ -49,11 +49,11 @@ html, body {
 .card { 
     background-color: hsl(0, 0%, 12%);
     border-radius: 10px;
-    padding: 25px;
+    padding: 20px;
     text-align: center;
     width: 100%;
     max-width: 350px;
-    margin: 25px;
+    margin: 20px;
 }
 
 .social-links {
