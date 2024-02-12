@@ -54,6 +54,7 @@ html, body {
     width: 100%;
     max-width: 350px;
     margin: 20px;
+    margin-bottom: 70px;
 }
 
 .social-links {
@@ -103,7 +104,6 @@ html, body {
     color: hsl(220, 15%, 55%); 
     background-color: hsl(0, 0%, 12%);
     padding: 1em;
-    margin-top: 30px;
     
   }
   
