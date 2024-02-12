@@ -23,13 +23,13 @@ html, body {
 
 .title { 
     font-weight: 700;
-    font-size: 1.4em;
+    font-size: 1.5em;
     color: hsl(0, 0%, 100%);
 }
 
 .subtitle { 
     font-weight: 600;
-    font-size: 1em;
+    font-size: 1.1em;
     color: hsl(75, 94%, 57%);
     text-shadow: 0 0 4px hsl(75, 94%, 57%);
     margin-top: -5px;
@@ -37,7 +37,7 @@ html, body {
 
 .bio {
     font-weight: 400;
-    font-size: 0.9em;
+    font-size: 1em;
     color: hsl(0, 0%, 100%);
     margin-top: 35px;
     margin-bottom: 10px;
