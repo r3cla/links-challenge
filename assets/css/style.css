@@ -96,13 +96,15 @@ html, body {
 .attribution {
     font-size: 0.8em;
     text-align: center;
-    position: absolute;
+    position: fixed;
+    left: 0;
     bottom: 0;
     width: 100%;
     color: hsl(220, 15%, 55%); 
     background-color: hsl(0, 0%, 12%);
     box-shadow: hsl(0, 0%, 11%);
-    padding: 1em; 
+    padding: 1em;
+    
   }
   
 .attribution a {
