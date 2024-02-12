@@ -71,6 +71,7 @@ Users should be able to:
 ### What I learned
 - Better use of semantic tags.
 - Honing my use of alignment style code such as padding, margins, etc. etc.
+- Learned the basics of the [CSS box sizing property](https://www.w3schools.com/css/css3_box-sizing.asp) thanks to some feedback from @ivanparraoda.
 
 ## Useful resources
 
