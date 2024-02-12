@@ -52,7 +52,9 @@ html, body {
     padding: 20px;
     box-shadow: 0 4px 8px hsl(0, 0%, 18%);
     text-align: center;
-    width: 375px; 
+    width: 100%;
+    max-width: 375px;
+    margin: 15px;
 }
 
 .social-links {
@@ -113,10 +115,11 @@ html, body {
   }
 
 
-/* media queries for larger screens if needed
+/* media queries for larger screens up to 1440px wide */
 
 @media (min-width: 1440px) {
     .card { 
-        width: 1440px; 
+        width: 100%; 
+        max-width: 1440px;
 }
-} */
+} 
