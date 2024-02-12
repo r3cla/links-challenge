@@ -31,6 +31,7 @@ html, body {
     font-weight: 600;
     font-size: 1em;
     color: hsl(75, 94%, 57%);
+    text-shadow: 0 0 4px hsl(75, 94%, 57%);
     margin-top: -5px;
 }
 
@@ -38,7 +39,8 @@ html, body {
     font-weight: 400;
     font-size: 0.9em;
     color: hsl(0, 0%, 100%);
-    margin-top: 30px;
+    margin-top: 35px;
+    margin-bottom: 10px;
     
 }
 
