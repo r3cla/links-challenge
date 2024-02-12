@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the QR code component](/images/screenshot-qrchallenge.jpg)
+![Screenshot of the QR code component](assets/images/projectsnapshot.jpg)
 
 ### Links
 
-- [Git Repo](https://github.com/r3cla/qrchallenge)
-- [Live Site](https://r3cla.github.io/qrchallenge)
+- [Git Repo](https://github.com/r3cla/links-challenge)
+- [Live Site](https://r3cla.github.io/links-challenge)
 
 ## My process
 
