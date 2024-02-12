@@ -73,6 +73,7 @@ html, body {
     border-radius: 5px;
     display: block;
     width: 80%;
+    padding: 15px 20px;
 }
 
 .social-links a:hover {
