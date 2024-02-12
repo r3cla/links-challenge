@@ -29,7 +29,7 @@ html, body {
 
 .subtitle { 
     font-weight: 600;
-    font-size: 1.1em;
+    font-size: 1em;
     color: hsl(75, 94%, 57%);
     text-shadow: 0 0 4px hsl(75, 94%, 57%);
     margin-top: -5px;
