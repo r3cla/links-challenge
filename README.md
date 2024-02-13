@@ -46,8 +46,7 @@ Users should be able to:
 - Added custom styles for the title, subtitle and bio sections of text on the card (social links area above the buttons).
 - Ensured colours and other style elements were consistent with the design.
 - Worked on getting the margins and alignment correct while constantly checking a live example of the webpage for reference.
-- Tested it on my mobile device to see how it looked.
-- 
+  
 ### Testing
 - I tested the layout using firefox responsive design mode to view in different screen sizes.
 - I also viewed the website natively using my desktop PC and mobile phone.
